@@ -12,3 +12,9 @@ html {
     background: -o-linear-gradient( to left top, blue, red);
     background: linear-gradient( to left top, blue, red);
 }
+h1 {
+    font-family: 'Gaegu', cursive;
+}
+a {
+    font-family: 'Titillium Web', sans-serif;
+}
