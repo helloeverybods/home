@@ -15,6 +15,6 @@ html {
 h1 {
     font-family: 'Gaegu', cursive;
 }
-body {
-    font-family: 'Titillium Web', sans-serif;
+nav ul li a {
+    font-family: 'Open Sans', sans-serif;
 }
