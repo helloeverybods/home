@@ -3,4 +3,5 @@ body {
     linear-gradient(
       blue, violet
     );
+  height: 100px;
 }
