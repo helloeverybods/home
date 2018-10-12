@@ -1,16 +1,9 @@
+body {
+    margin: 0;
+    } p { font-family: 'Open Sans', sans-serif;
+}
 html {
-    height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background: #70bg32;
-    background-repeat:no-repeat;
-    background: -webkit-linear-gradient( to left top, blue, red);
-    background: -moz-linear-gradient( to left top, blue, red);
-    background: -ms-linear-gradient( to left top, blue, red);
-    background: -o-linear-gradient( to left top, blue, red);
-    background: linear-gradient( to left top, blue, red);
+    padding: 0;
 }
 h1 {
     font-family: 'Gaegu', cursive;
@@ -49,7 +42,6 @@ body {
 }
 
 nav a {
-  color: #e00;
   display: block;
   padding: 0.5em 1em;
   text-decoration: none;
@@ -59,13 +51,14 @@ nav a:hover {
 }
 nav ul,
 nav ul li {
+  margin: 0;
+  background: Black;
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
 nav > ul {
-  background: #eee;
   text-align: center;
 }
 nav > ul > li {
@@ -75,7 +68,6 @@ nav > ul > li {
 nav > ul > li:first-child {
   border-left: none;
 }
-
 .sub-menu {
-  background: #ddd;
-}
+background: White;
+}		
