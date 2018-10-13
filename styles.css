@@ -1,9 +1,12 @@
 body {
     margin: 0;
-    } p { font-family: 'Open Sans', sans-serif;
+} 
+p { 
+    font-family: 'Open Sans', sans-serif;
 }
 html {
     padding: 0;
+    background-color: Black;
 }
 h1 {
     font-family: 'Gaegu', cursive;
