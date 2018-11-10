@@ -11,12 +11,11 @@ body {
     font-weight: normal;
     font-style: normal;
 }
-p { 
-    font-family: 'product_sansregular', sans-serif;
-}
+
 html {
     padding: 0;
-    background-color: Black;
+    background-color: Black; 
+    font-family: 'product_sansregular', sans-serif;
 }
 h1 {
     font-family: 'Gaegu', cursive;
